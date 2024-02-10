@@ -16,7 +16,7 @@ pip install ubicoders-vrobots
 
 ## Turn on Virtual Robots Bridge
 ```
-python -c "import ubicoders_vrobots_bridge.vrobots_bridge_gui as gui; gui.gui_app_run()"
+python vr_server.py
 ```
 
 ## Connect the Virtual Robot 
@@ -24,7 +24,7 @@ python -c "import ubicoders_vrobots_bridge.vrobots_bridge_gui as gui; gui.gui_ap
 
 ## Run the template script
 ```
-python my_vrobot.py
+python vr_multirotor.py
 ```
 
 ## Axis Convention
