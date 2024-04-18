@@ -11,7 +11,7 @@ Requirements:
 ## Once you have Python 3
 
 ```
-pip install ubicoders-vrobots
+pip install ubicoders-vrobots matplotlib numpy
 ```
 
 ## Turn on Virtual Robots Bridge
