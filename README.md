@@ -20,7 +20,7 @@ python start_bridge.py
 ```
 
 ## Connect the Virtual Robot 
-![](./connect.png)
+![](https://raw.githubusercontent.com/ubicoders/virtualrobots_ws/refs/heads/main/connect.png)
 
 ## Run the template script
 ```
