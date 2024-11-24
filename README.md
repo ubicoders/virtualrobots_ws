@@ -1,7 +1,7 @@
 # Ubicoders Virtual Robot - Multirotor
 
 The virtual robot is here:
-[Virtual Multitor](https://www.ubicoders.com/virtualrobots/multirotor
+[Virtual Multitor](https://www.ubicoders.com/virtualrobots
 ) 
 
 
